@@ -9,9 +9,9 @@
 ```javascript
 const angelica = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Angularjs, Bootstrap, Firebase],
-  challenge: "I am focused on Javascript and React.js"
+  code: [Javascript, Typescript, HTML, CSS, SASS],
+  tools: [Node, React, Angular.js, Vue, Redux, Zustand, Next.js, Remix, Nest, Tailwind, Chakra UI, Firebase],
+  challenge: "My current focus is TypeScript, React.js, Python, and AI."
 }
 ```
 ---
